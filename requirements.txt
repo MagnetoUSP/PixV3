@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mercadopago
+python-dotenv
+vercel-kv
+qrcode[pil]
